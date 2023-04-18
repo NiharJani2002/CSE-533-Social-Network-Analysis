@@ -8,7 +8,7 @@ Project Is divided into three parts:
   Here We have to demostrate our project idea, which dataset we are going to use, and what problem we are going to solve.
   And present some code (Not Compulsory)
   
-  2)Initial Presentation
+  2)Rapid Fire Presentation
   Here, We have to present the code, and some initial results and show the results and tell ideas, what we are going to do in further.
   
   3)Final Presentation
